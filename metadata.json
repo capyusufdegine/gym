@@ -1,0 +1,6 @@
+{
+  "name": "Marcus Reid Fitness | High-Performance Coaching",
+  "description": "Forge your best self with certified personal trainer Marcus Reid. 1-on-1 coaching, online programs, nutrition planning, and athletic conditioning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
